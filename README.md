@@ -34,3 +34,6 @@ It keeps track of the amount of water, milk, coffee beans, and money available i
 * The Coffee class represents a specific type of coffee, storing information such as the coffee type, price, and the amount of water, milk,
  and coffee beans required to make it. Multiple instances of the Coffee class are created and stored in an array within the CoffeeMachine class to represent the available coffee options.
 * The program's execution is driven by the Main class, which creates an instance of the CoffeeMachine class and calls its run method to start the interaction with the user.
+
+>## Snaps
+* ![Snaps](https://drive.google.com/file/d/1cfXA5BByehBDln6y9YqiO6llsjjxXt-9/view?usp=drive_link)
